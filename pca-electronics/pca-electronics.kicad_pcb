@@ -178,6 +178,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 0.65 0.65 0.65))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Package_TO_SOT_THT:TO-220-3_Vertical" (layer "F.Cu")
@@ -307,6 +312,11 @@
     (model "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30U-M_1x02_P5.0mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 0.65 0.65 0.65))
       (rotate (xyz 0 0 0))
     )
   )
@@ -724,6 +734,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT60-F_1x02_P7.2mm_Vertical.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 0.65 0.65 0.65))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Module:Adafruit_Feather" locked (layer "F.Cu")
@@ -834,6 +849,16 @@
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x12_P2.54mm_Vertical.step"
+      (offset (xyz 20 -10 -1.6))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x16_P2.54mm_Vertical.step"
+      (offset (xyz 0 0 -1.6))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 180 0))
     )
   )
 
@@ -960,6 +985,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 0.65 0.65 0.65))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_AMASS:AMASS_XT30U-M_1x02_P5.0mm_Vertical" (layer "F.Cu")
@@ -1016,6 +1046,11 @@
     (model "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT30U-M_1x02_P5.0mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Connector_AMASS.3dshapes/AMASS_XT60-M_1x02_P7.2mm_Vertical.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 0.65 0.65 0.65))
       (rotate (xyz 0 0 0))
     )
   )

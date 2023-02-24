@@ -413,7 +413,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "pca-electronics.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
